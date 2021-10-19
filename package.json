@@ -1,0 +1,15 @@
+{
+  "name": "aspose.words.cpp",
+  "version": "1.0.0",
+  "description": "Word Document Processing API",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "cmake-js": "^6.2.1"
+  },
+  "devDependencies": {
+    "node-addon-api": "^4.2.0"
+  },
+  "scripts": {
+    "install": "cmake-js compile"
+  }
+}
